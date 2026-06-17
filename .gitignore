@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Local app/runtime caches
+.cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# PyInstaller/build outputs
+build/
+dist/
+build_assets/
+*.spec.bak
+
+# Large generated artifacts
+*.exe
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+Thumbs.db
+Desktop.ini
+
+# IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
