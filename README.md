@@ -66,17 +66,7 @@ dist\FormulaOcrTool.exe
 
 注意：生成的 exe 体积较大，不建议提交进 Git 仓库。请通过 GitHub Releases 上传。
 
-## GitHub 发布建议
 
-源码仓库只提交源码、脚本和说明文件，不提交以下生成产物：
-
-- `dist/`
-- `build/`
-- `build_assets/`
-- `__pycache__/`
-- `*.exe`
-
-发布 exe 时，在 GitHub 仓库页面创建 Release，并把 `dist\FormulaOcrTool.exe` 作为 Release 附件上传。
 
 ## 项目结构
 
