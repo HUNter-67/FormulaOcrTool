@@ -1,6 +1,6 @@
 # FormulaOcrTool
 
-一个 Windows 本地公式 OCR 小工具：截图或选择公式图片后，识别图片中的公式并输出 LaTeX，方便复制到 Word、MathType 或其他编辑器。
+一个 Windows 本地公式 OCR 小工具：截图或选择公式图片后，识别图片中的公式并输出 LaTeX，方便复制到 Word、MathType 或其他编辑器。可直接在Release里下载打包好的exe文件,exe无需提前按照python也能运行,下载后无需联网,适合在不能联网的工作机中使用
 
 ## 功能
 
